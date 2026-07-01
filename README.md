@@ -1,2 +1,8 @@
 # PC-Studio
-Soluções inteligentes em Excel, Power BI, IA e Automação.
+💰 PC - My Finance
+
+🌱 PC - Agro BI
+
+👷 PC - Safety
+
+📊 PC - Analytics
